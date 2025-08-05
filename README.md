@@ -32,13 +32,15 @@ This repository supply a user-friendly interactive interface for [YOLOv8](https:
 
 ## Interactive Interface
 ### Image Input Interface
-![image_input_demo](https://github.com/JackDance/YOLOv8-streamlit-app/blob/master/pic_bed/image_input_demo.png)
+![image_input_demo](https://github.com/AmanDevNet/ObjectDetectX-/blob/main/pic_bed/people_and_boat.png)
 
 ### Video Input Interface
-![video_input_demo](https://github.com/JackDance/YOLOv8-streamlit-app/blob/master/pic_bed/video_input_demo.png)
+![video_input_demo](https://github.com/AmanDevNet/ObjectDetectX-/blob/main/pic_bed/video_input.mp4)
 
+### Video Input Interface
+![video_input_demo](https://github.com/AmanDevNet/ObjectDetectX-/blob/main/pic_bed/video_output.png)
 ### Webcam Input Interface
-![webcam_input_demo](https://github.com/JackDance/YOLOv8-streamlit-app/blob/master/pic_bed/webcam_input_demo.png)
+![webcam_input_demo](https://github.com/AmanDevNet/ObjectDetectX-/blob/main/pic_bed/bottle_webcam.png)
 
 
 ## Installation
@@ -91,3 +93,4 @@ Then will start the Streamlit server and open your web browser to the default St
 ***
 
 If you also like this project, you may wish to give a `star` (^.^)✨ . If any questions, please raise `issue`~
+
