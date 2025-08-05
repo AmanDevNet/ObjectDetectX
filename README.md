@@ -47,14 +47,16 @@ This repository supply a user-friendly interactive interface for [YOLOv8](https:
 ### Create a new conda environment
 ```commandline
 # create
-conda create -n yolov8-streamlit python=3.8 -y
+conda create -n ObjectDetectX python=3.8 -y
 
 # activate
-conda activate yolov8-streamlit
+conda activate ObjectDetectX
 ```
+
 ### Clone repository
 ```commandline
-git clone https://github.com/JackDance/YOLOv8-streamlit-app
+git clone https://github.com/AmanDevNet/ObjectDetectX.git
+cd ObjectDetectX
 ```
 
 ### Install packages
@@ -93,4 +95,5 @@ Then will start the Streamlit server and open your web browser to the default St
 ***
 
 If you also like this project, you may wish to give a `star` (^.^)✨ . If any questions, please raise `issue`~
+
 
